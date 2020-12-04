@@ -34,4 +34,5 @@ RetroPie Emulator: https://retropie.org.uk/,
 Arduino IDE 1.8.13: https://www.arduino.cc/en/software,
 ROMs: Can be legally obtained from the src files, or downloaded from the internet, of games YOU OWN or can no longer be purchased. 
 
-
+#How to Build
+For the box/container... Build a box. Cut all sides to the dimmensions you would like, drill holes into the top for buttons and joystick, screw and glue the sides together, attach the top board via spring latches, and paint if you would like. For most buttons, installation is as easy as pushing them into the holes you have drilled and twisting on a backing by hand to hold them in place. Screw the joysticks into the top of your box and now it's time for wiring. The joystick in my case is the easiest to connect. There is one wire for ground, and then one wire for, left, right, up, down, in that order. Connect ground to ground, and run the other wires directly to the Arduino Uno pins. Manycheap joysticks are made like this, but make sure you look up the model if it doesnt appear to be working in this way.   
