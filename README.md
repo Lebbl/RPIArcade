@@ -10,7 +10,6 @@ Have you ever wanted to play Pac-Man or classic fighting games with retro arcade
 RPI (model # from 2-4)\
 Arduino Uno (2x for 2 player version)\
 Arduino Leonardo (2X for 2 player version)\
-MDF planks\
 10-20 LED arcade buttons\
 1-2 joysticks\
 ~ 50 male to male jumper wires\
