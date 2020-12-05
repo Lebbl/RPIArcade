@@ -62,4 +62,4 @@ Jeffery Brown - supervised Levi using the table saw to make sure all of his appe
 Levi Brown - did eveything else.
 # Credits
 Brett Withjack - https://www.youtube.com/channel/UCKv99M3K512A3GWlnKYRhRw. Created the project on which mine is based.\
-Trevor Tomesh and CS207 - Without his help or the class this project would not have been possible.  
+Trevor Tomesh and CS207 - Without his help, or the class, this project would not have been possible.  
