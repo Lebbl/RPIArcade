@@ -1,7 +1,7 @@
 # RPIArcade v1.0
 RPI arcade with Arduino UNO LED controls and Arduino Leonardo microcontrollers
 
-    ______________________________________
+
 -> | Video: https://youtu.be/QJSsoa6ATkY  | <-
 
 
